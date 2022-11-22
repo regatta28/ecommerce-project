@@ -9,6 +9,6 @@ requests==2.22.0
 html5lib==0.999
 pycurl==7.19.3
 python-apt==0.9.35ubuntu2
-pillow==5.0.0
+pillow==9.3.0
 colorama==0.2.5
 django-forms-bootstrap==3.1.0
